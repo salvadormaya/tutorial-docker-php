@@ -1,6 +1,5 @@
 <?php
-echo "hola a todos";
-echo "hola otra vez";
+echo "hola a todos otra vez";
 phpinfo();
 
 ?>
