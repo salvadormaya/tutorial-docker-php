@@ -1,4 +1,4 @@
 <?php
-   echo("Hola Mundo, hola a toda la perrada!!");
+   echo("Hola a todo el Mundo");
     phpinfo();
 ?>
