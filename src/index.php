@@ -1,4 +1,6 @@
-<?php
-   echo("Hola a todo el Mundo 12 febrero de 2021 11:32");
-    phpinfo();
-?>
+<html>
+<head>
+<title>Nuestro primer ejemplo en PHP 7</title>
+7</tit
+</head>
+<body>
